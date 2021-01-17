@@ -16,7 +16,7 @@ function Menu(props) {
           source={require('../src/imges/sambabhouria.jpg')}
           style={styles.image}
         />
-        <Text style={styles.text}>Sanan Ali</Text>
+        <Text style={styles.text}>DIALLO MAMADOU SAMBA</Text>
       </View>
       <DrawerItemList {...props} />
       <DrawerItem
