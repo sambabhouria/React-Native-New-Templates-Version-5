@@ -6,7 +6,7 @@ import TopNavigator from './navigation/top-navigator';
 const App = () => {
   return (
     <>
-      {/* <AppTopNavigator /> */}
+      <TopNavigator />
       <DrawerNavigator />
       <BottomNavigator />
     </>
