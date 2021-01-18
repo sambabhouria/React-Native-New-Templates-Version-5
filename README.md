@@ -13,3 +13,12 @@ run " npm uninstall @react-navigation/material-top-tabs @react-navigation/drawer
 For Top Tabs Only
 run "npm uninstall @react-navigation/bottom-tabs @react-navigation/drawer"
 Don't forget to delete the files that you don't need.
+
+# Screen Shots
+
+<img src="src/images/sambabhouria.jpg" width="300" height="600"/>
+<img src="src/images/2.jpg" width="300" height="600"/>
+<img src="src/images/2.jpg" width="300" height="600"/>
+<img src="src/images/3.jpg" width="300" height="600"/>
+<img src="src/images/4.jpg" width="300" height="600"/>
+<img src="src/images/5.jpg" width="300" height="600"/>

@@ -5,9 +5,11 @@ import DrawerNavigator from './navigation/drawer-navigator';
 import TopNavigator from './navigation/top-navigator';
 const App = () => {
   return (
-    //  <BottomNavigator/>
-    <DrawerNavigator />
-    //  <TopNavigator/>
+    <>
+      {/* <AppTopNavigator /> */}
+      <DrawerNavigator />
+      <BottomNavigator />
+    </>
   );
 };
 

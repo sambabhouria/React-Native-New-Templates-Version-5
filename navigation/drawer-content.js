@@ -1,3 +1,4 @@
+/* eslint-disable react-native/no-inline-styles */
 import React from 'react';
 import {View, Text, StyleSheet, Image} from 'react-native';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
@@ -13,7 +14,7 @@ function Menu(props) {
     <DrawerContentScrollView {...props}>
       <View style={styles.container}>
         <Image
-          source={require('../src/imges/sambabhouria.jpg')}
+          source={require('../src/images/sambabhouria.jpg')}
           style={styles.image}
         />
         <Text style={styles.text}>DIALLO MAMADOU SAMBA</Text>
